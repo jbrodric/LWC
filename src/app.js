@@ -10,7 +10,7 @@ const columns = [
 ];
 
 export default class App extends LightningElement {
-  message = 'Hello Wrld';
+  message = 'Hello Wrld Test';
   data = [];
     columns = columns;
 
